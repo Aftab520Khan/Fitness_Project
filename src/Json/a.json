@@ -1,0 +1,62 @@
+[
+{"id":1 ,
+"name":"High Knees",
+"img":"https://i.pinimg.com/originals/69/b9/cf/69b9cf8b3c0a6d971ce0e1ac83a17c03.gif",
+"dec":"(20 seconds work – 40 seconds rest) x 5 sets"
+},
+{"id":2 ,
+"name":"Plank Jacks ",
+"img":"https://media2.popsugar-assets.com/files/thumbor/psvNL1d4rpsXGtBHpB9wODbAM7A=/fit-in/2048xorig/filters:format(gif)/2016/04/29/909/n/1922398/8a0b7913bd7d4ec3_PlankJack.gif",
+"dec":"(20 seconds work – 40 seconds rest) x 5 sets"
+},
+{"id":3 ,
+"name":"Burpees ",
+"img":"https://thumbs.gfycat.com/FondAntiqueCuckoo-size_restricted.gif",
+"dec":"(30 seconds work – 60 seconds rest) x 4 sets"
+},
+{"id":4 ,
+"name":"Jumping Lunges ",
+"img":"https://www.verywellfit.com/thmb/WmEQ89c75zD-9xLF_P72I3mdSHQ=/2667x2000/smart/filters:no_upscale()/69-3119998-Jump-Lunge-GIF-df2c0847f8c14a609380f3b89eb855b1.gif",
+"dec":"(20 seconds work – 40 seconds rest) x 5 sets"
+},
+{"id":5 ,
+"name":"Mountain Climbers ",
+"img":"https://media1.popsugar-assets.com/files/thumbor/Iu8waoj6rmL6c7B8gZUdS1ZIa3I/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2017/06/08/791/n/1922729/c4943793a2ba2dd5_SlowerClimbers.gif",
+"dec":"(20 seconds work – 40 seconds rest) x 5 sets"
+},
+{"id":6 ,
+"name":"Jump Squats ",
+"img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/workouts/2016/03/bodyweightsquatjump-1457041758.gif?crop=1xw:1xh;center,top&resize=480:*",
+"dec":"(20 seconds work – 40 seconds rest) x 5 sets"
+},
+{"id":7 ,
+"name":"Side Lunges ",
+"img":"https://flabfix.com/wp-content/uploads/2019/08/Arm-Cross-Side-Lunge.gif",
+"dec":"(30 seconds work- 60 seconds rest)x 5 sets"
+},
+{"id":8 ,
+"name":"Saw Plank ",
+"img":"https://i.makeagif.com/media/7-08-2015/6W31bQ.gif",
+"dec":"(30 seconds work- 60 seconds rest) x 5 sets"
+},
+{"id":9 ,
+"name":"Butt Kicks ",
+"img":"https://cdn.greatlifepublishing.net/wp-content/uploads/sites/2/2015/12/21162926/buttkicks.gif",
+"dec":"(30 seconds work – 60 seconds rest) x 5 sets"
+},
+{"id":10,
+"name":"Jumping Jacks  ",
+"img":"https://www.icegif.com/wp-content/uploads/jumping-jacks-icegif-5.gif",
+"dec":"20 seconds work"
+},
+{"id":11,
+"name":"Side Squats ",
+"img":"https://thumbs.gfycat.com/OblongCarelessCheetah-max-1mb.gif",
+"dec":" 30 seconds work"
+},
+{"id":12,
+"name":"Side Plank Walks",
+"img":"https://i.pinimg.com/originals/96/2a/d1/962ad1f6ecfadbcfa097162e010d2cf1.gif",
+"dec":" (30 seconds work – 60 seconds rest) x 5 sets"
+}
+]

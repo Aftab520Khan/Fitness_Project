@@ -1,0 +1,68 @@
+[
+{"id":1 ,
+" name":"Slice of Pepperoni Pizza",
+ "img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-02-full.jpg?w=768",
+ "dec":"290 calories"
+},
+{
+"id":2 ,
+"name":"Can of Soda",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-03-full.jpg?w=768",
+"dec":"150 Calories"
+},
+{
+"id":3 ,
+"name":"Caffe Latte",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-04-full.jpg?w=768",
+"dec":"260 Calories"
+},
+{
+"id":4 ,
+"name":"Chocolate Bar",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-05-full.jpg?w=768",
+"dec":"210 Calories"
+},
+
+{
+"id":5 ,
+"name":"Glazed Doughnut",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-06-full.jpg?w=768",
+"dec":"260 Calories"
+},
+
+{
+"id":6 ,
+"name":"Small Slice of Birthday Cake",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-07-full.jpg?w=768",
+"dec":" 312 calories"
+},
+
+{
+"id":7 ,
+"name":"Small Hot Fudge Sundae:",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-08-full.jpg?w=768",
+"dec":"392 calories"
+},
+
+{
+"id":8 ,
+"name":"Large Bagel",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-09-full.jpg?w=768",
+"dec":"320 calories"
+},
+
+{
+"id":9 ,
+"name":"Glass of Red Wine",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-10-full.jpg?w=768",
+"dec":"125 Calories"
+},
+{
+"id":10,
+"name":"A Single-Patty Fast-Food Cheeseburger",
+"img":"https://images.everydayhealth.com/images/diet-nutrition/weight/pg-fattening-foods-burn-11-full.jpg?w=768",
+"dec":"313 Calories"
+
+}
+
+]
